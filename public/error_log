@@ -1,6 +1,0 @@
-[12-Nov-2021 15:56:50 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use App\Models\Layer as Layer because the name is already in use in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/LayerController.php on line 8
-[15-Nov-2021 17:25:44 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/LoginController.php on line 9
-[16-Nov-2021 09:23:42 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/LoginController.php on line 9
-[16-Nov-2021 09:25:06 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/LoginController.php on line 9
-[23-Nov-2021 10:04:51 Asia/Kuala_Lumpur] PHP Fatal error:  Can't use function return value in write context in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/MapController.php on line 18
-[30-Nov-2021 09:07:04 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare App\Http\Controllers\LayerImageController::store() in /home/u392186142/domains/inotive.id/public_html/bpd/app/Http/Controllers/LayerImageController.php on line 56
